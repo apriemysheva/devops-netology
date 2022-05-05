@@ -6,4 +6,4 @@ Hi
 * игнорирование всех файлов .tfvars
 * исключение файлов *_override.tf и *_override.tf.json
 * не исключать файлы tfplan
-* игнорировать файлы .terraformrc terraform.rc
+* игнорировать файлы .terraformrc terraform.r:
