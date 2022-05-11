@@ -8,3 +8,4 @@ Hi
 * не исключать файлы tfplan
 * игнорировать файлы .terraformrc terraform.r
 new line
+new line again
